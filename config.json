@@ -11,6 +11,6 @@
   },
 
   "redirect": "https://shattereddisk.github.io/rickroll/rickroll.mp4",
-  "delay": 500,
-  "iframe": "https://editor.snail-ide.com/"
+  "delay": 100,
+  "iframe": "https://minecraft.wiki/w/Talk:Seecret_Updates"
 }
