@@ -1,13 +1,13 @@
 {
   "embed": {
-    "title": "Snail IDE - Tatertot",
-    "description": "Use Snail IDE Even Faster That Before!",
-    "url": "https://editor.snail-ide.com/",
-    "image": "https://editor.snail-ide.com/static/assets/ed0e6ffeff112678e2fdb06765950636.svg",
+    "title": "The new secret update.",
+    "description": "Mojang is makeing a secret update that will be released in 2025",
+    "url": "geekupdates.com",
+    "image": "https://i.pinimg.com/originals/41/ec/51/41ec519450f2d6eab830e86b97cd7d69.png",
     "color": "#FFFFFF"
   },
   "page": {
-    "title": "Tatertot Page Title"
+    "title": "The new secret update."
   },
 
   "redirect": "https://shattereddisk.github.io/rickroll/rickroll.mp4",
